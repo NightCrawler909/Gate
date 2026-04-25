@@ -1,0 +1,16 @@
+ultralytics
+opencv-python
+easyocr
+numpy
+pandas
+scikit-learn
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn[standard]
+python-dotenv
+torch
+torchvision
+Pillow
+websockets
+python-multipart
